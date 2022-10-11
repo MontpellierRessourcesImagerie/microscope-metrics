@@ -14,7 +14,7 @@ pydantic = "^1.7.3"
 
 [tool.poetry.dev-dependencies]
 blacked = "^0.1.0-alpha.4"
-poetry = "^1.1.4"
+poetry = "^1.1.9"
 pytest = "^6.2.0"
 
 [build-system]
